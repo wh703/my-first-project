@@ -1,4 +1,4 @@
-# 简易 Python 计算器
+# 简易Python计算器
 def calculator():
     print("===== Python 计算器 =====")
     print("支持：+ - * / () 小数点")
